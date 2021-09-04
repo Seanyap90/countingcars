@@ -37,3 +37,4 @@ Google Drive folder (give it a name)
 4. Use yolov4 model to count cars from every image extracted
 
 Concurrency is used to speed up API calls and car counting.
+Feel free to use this simple framework to collect different kinds of data for machine learning or deep learning applications.
